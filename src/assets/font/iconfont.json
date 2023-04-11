@@ -1,0 +1,23 @@
+{
+  "id": "4007202",
+  "name": "后台管理系统",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6119260",
+      "name": "用户-实色",
+      "font_class": "user-s",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "6119272",
+      "name": "锁定-实色",
+      "font_class": "lock-s",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    }
+  ]
+}
